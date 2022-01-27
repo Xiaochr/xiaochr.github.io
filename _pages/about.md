@@ -11,7 +11,7 @@ redirect_from:
 About me
 ===
 
-Changrong Xiao is a first-year Ph.D. student at Department of Management Science and Engineering (MS&E), Shool of Economics and Management, Tsinghua University. He received his Bachelor's degree in Information Management and Information Systems at Tsinghua in 2021. 
+Changrong Xiao is a first-year Ph.D. student at Department of Management Science and Engineering (MS&E), Shool of Economics and Management, Tsinghua University. 
 
 He is currently working with [Prof. Sean (Xin) Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Network Science and Recommender Systems. 
 
@@ -24,7 +24,9 @@ Education
 
 Interests
 ===
-In my daily life, I swim quite often, and I enjoy music and movies. My favorite singer is Faye Wong, and I love Wong Kar Wai's movies. 
+In my daily life, I swim quite often, and I enjoy music and movies. 
+
+My favorite singer is Faye Wong, and I love Wong Kar Wai's movies. 
 
 Hanging out with my friends and teammates is always my first choice of entertainment. No smoking, but alcohol is welcomed :)
 
