@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaochr - About me"
+title: "Changrong Xiao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,4 +21,10 @@ Education
 * Ph.D. in Information Systems, Tsinghua University, Sept. 2021 - 
 * Exchange Program, University of Mannheim, Aug. 2019 - Jan. 2020
 * Bachelor in Information Management and Information Systems, Tsinghua University, Sept. 2017 - Jun. 2021
+
+Interests
+===
+In my daily life, I swim quite often, and I enjoy music and movies. My favorite singer is Faye Wong, and I love Wong Kar Wai's movies. 
+
+Hanging out with my friends and teammates is always my first choice of entertainment. No smoking, but alcohol is welcomed :)
 

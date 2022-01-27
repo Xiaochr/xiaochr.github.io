@@ -37,7 +37,7 @@ Honors
   
 Service and leadership
 ======
-* Currently vice captain of Tsinghua Waterpolo team, won second place in 2021 China University Water Polo Championship. 
+* Currently vice captain of Tsinghua Waterpolo team, won **second place** in 2021 China University Water Polo Championship. 
 * Local Champion (Mainland China) in EY NextWave Data Science Challenge 2019. 
 * Former leader of Tsinghua SEM swimming team and long-distance running team.
 
