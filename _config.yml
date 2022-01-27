@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Changrong Xiao"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student, MS&E department, Shool of Economics and Management, Tsinghua University. "
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "xiaochr"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :

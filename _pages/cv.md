@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Information Systems, Tsinghua University, Sept. 2021 - 
+* Exchange Program, University of Mannheim, Aug. 2019 - Jan. 2020
+* Bachelor in Information Management and Information Systems, Tsinghua University, Sept. 2017 - Jun. 2021
 
-Work experience
+Research & Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern, May 2021 - Sept. 2021
+  * Beijing Kuaishou Technology Co., Ltd.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistant, Jun. 2020 - Aug. 2020
+  * Lab for Big Data Methodology, University of Notre Dame
+  * Supervisor: [Prof. Zhiyong (Johnny) Zhang](https://psychology.nd.edu/faculty/zhiyong-johnny-zhang/)
+  * **A-class project in 2020 Tsinghua University remote summer research program**
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research Assistant, Sept. 2018 - Apr. 2019
+  * Department of Industrial Engineering, Tsinghua University
+  * Supervisor: Senior Engineer Jingbin Yan
+  * **30th Tsinghua University student laboratory construction contribution award**
+
+Honors
+===
+* 2021 Excellent Graduate, Tsinghua University
+* Academic Excellence and Sports Excellence Scholarship, Tsinghua University
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently vice captain of Tsinghua Waterpolo team, won second place in 2021 China University Water Polo Championship. 
+* Local Champion (Mainland China) in EY NextWave Data Science Challenge 2019. 
+* Former leader of Tsinghua SEM swimming team and long-distance running team.
+
+Skills
+======
+* Languages:
+  * Mandarin (native)
+  * English (TOEFL: 105/120)
+* Programming languages:
+  * Python
+  * R
+  * SQL
+  * Latex
+* Softwares:
+  * Stata
+  * Cplex
+  * Netlogo
+  * Microsoft Office
+
