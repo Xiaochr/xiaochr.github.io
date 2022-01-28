@@ -24,9 +24,9 @@ Education
 
 Interests
 ===
-In my daily life, I swim quite often, and I enjoy music and movies. 
+Xiao is a sports lover, who swims quite often both in the swimming pool and in the ocean of papers. 
 
-My favorite singer is [Faye Wong](https://music.apple.com/cn/artist/%E7%8E%8B%E8%8F%B2/41760704), and I love [Wong Kar Wai](https://www.imdb.com/name/nm0939182/)'s movies. 
+He is also a great fan of [Faye Wong](https://music.apple.com/cn/artist/%E7%8E%8B%E8%8F%B2/41760704). Her enchanting voice, powerful than Siren's, always make this poor sailor surrender. 
 
-Hanging out with my friends and teammates is always my first choice of entertainment. No smoking, but alcohol is welcomed :)
+His dream is to become a Hobbit in [Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)'s world of Middle Earth, who is pleased with his little cozy room, but willing to start an adventure at any time. Most importantly, he is justifiable to have 7 meals a day as a Hobbit :)
 
