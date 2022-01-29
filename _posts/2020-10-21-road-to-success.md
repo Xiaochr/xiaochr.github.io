@@ -7,9 +7,6 @@ tags:
   - academic
 ---
 
-Book Info
-===
-
 Book title: **Road to success: A guide for doctoral students and junior faculty members in the behavioral and social sciences**
 
 Author: Viswanath Venkatesh

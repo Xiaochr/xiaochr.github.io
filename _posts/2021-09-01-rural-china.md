@@ -6,9 +6,6 @@ tags:
   - reading notes
 ---
 
-Book Info
-===
-
 Book title: **乡土中国**
 
 Author: 费孝通

@@ -6,9 +6,6 @@ tags:
   - reading notes
 ---
 
-Book Info
-===
-
 Book title: **How to Win Friends and Influence People**
 
 Author: Dale Carnegie
