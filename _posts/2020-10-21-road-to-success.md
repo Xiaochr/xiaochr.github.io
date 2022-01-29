@@ -1,6 +1,6 @@
 ---
 title: 'Reading Notes: Road to Success'
-date: 2019-12-29
+date: 2020-10-21
 permalink: /posts/2020/10/road-to-success/
 tags:
   - reading notes
