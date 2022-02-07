@@ -20,6 +20,10 @@ Research & Work experience
 * Research Intern, May 2021 - Sept. 2021
   * Beijing Kuaishou Technology Co., Ltd.
 
+* Research Assistant, Aug. 2020 - Apr. 2021
+  * SEM Interactive Technology Industry Research Center, Tsinghua University
+  * Supervisor: [Prof. Jiayin Zhang](https://www.sem.tsinghua.edu.cn/en/info/1218/7596.htm)
+
 * Research Assistant, Jun. 2020 - Aug. 2020
   * Lab for Big Data Methodology, University of Notre Dame
   * Supervisor: [Prof. Zhiyong (Johnny) Zhang](https://psychology.nd.edu/faculty/zhiyong-johnny-zhang/)
