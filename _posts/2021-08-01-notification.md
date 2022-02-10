@@ -7,7 +7,8 @@ tags:
 ---
 
 手机社交app中的 Notifications
-===
+
+---
 
 从计算机和计算机软件时代到如今智能移动手机、手机应用的广泛使用，notification 也随着 IT 技术的进步而被使用于多样的情景，例如新邮件通知、新闻通知、电话通知（phone calls）、日程和闹钟提醒（alerts）、手机应用内通知（in-app）等 (Chen et al., 2019; Fitz et al., 2019)。如今人们平均每天会收到约63条 notification，且这个数字正在快速增加 (Pielot et al., 2018)。在这个电子和移动的时代人们已离不开 notification。
 
