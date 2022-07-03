@@ -13,7 +13,7 @@ About me
 
 Changrong Xiao is a first-year Ph.D. student at Department of Management Science and Engineering (MS&E), Shool of Economics and Management, Tsinghua University. 
 
-He is currently working with [Prof. Sean (Xin) Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Network Science,  Recommender Systems and Educational Data Mining. He is now working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) on an educational project for Chinese highschool students.
+He is currently working with [Prof. Sean (Xin) Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Natural Language Processing and Computational Social Science. He is now working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) on an educational project for Chinese junior school English learners.
 
 
 Education
