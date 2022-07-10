@@ -11,7 +11,7 @@ redirect_from:
 About me
 ===
 
-Changrong Xiao is a first-year Ph.D. student at Department of Management Science and Engineering (MS&E), Shool of Economics and Management, Tsinghua University. 
+Changrong Xiao is a second-year Ph.D. student at Department of Management Science and Engineering (MS&E), Shool of Economics and Management, Tsinghua University. 
 
 He is currently working with [Prof. Sean (Xin) Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Natural Language Processing and Computational Social Science. He is now working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) on an educational project for Chinese junior school English learners.
 
@@ -26,7 +26,7 @@ Interests
 ===
 Xiao is a swim lover, being a member of Tsinghua Waterpolo Team and Swimming Team (C class). 
 
-He is also a great fan of [Faye Wong](https://music.apple.com/cn/artist/%E7%8E%8B%E8%8F%B2/41760704), and is trying hard to collect all her albums.
+He is also a great fan of [Faye Wong](https://music.apple.com/cn/artist/%E7%8E%8B%E8%8F%B2/41760704), denoting a great proportion of pocket money to her albums.
 
 His dream is to become a Hobbit in [Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)'s world of Middle Earth, who is pleased with his little cozy room, but willing to start an adventure at any time. Most importantly, he is justifiable to have 7 meals a day as a Hobbit :)
 
