@@ -19,7 +19,7 @@ He is currently working with [Prof. Sean (Xin) Xu](https://www.sem.tsinghua.edu.
 Education
 ===
 * Ph.D. in Information Systems, Tsinghua University, Sept. 2021 - 
-* Exchange Program, University of Mannheim, Aug. 2019 - Jan. 2020
+* Exchange Program (Business Education), University of Mannheim, Aug. 2019 - Jan. 2020
 * Bachelor in Information Management and Information Systems, Tsinghua University, Sept. 2017 - Jun. 2021
 
 Interests
