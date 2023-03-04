@@ -13,7 +13,7 @@ About me
 
 Changrong Xiao is a second-year Ph.D. student at Department of Management Science and Engineering (MS&E), Shool of Economics and Management, Tsinghua University. 
 
-He is currently working with [Prof. Sean (Xin) Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Natural Language Processing and Computational Social Science. He is now working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) on an educational project for Chinese junior school English learners.
+He is currently under the supervision of [Prof. Sean (Xin) Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Natural Language Processing and Computational Social Science. He is now working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) on an educational project for Chinese middle school English learners. He also frequently discusses with [Prof. Jiayin Zhang](https://www.sem.tsinghua.edu.cn/en/info/1218/7596.htm) on cultural trends in short video platforms.
 
 
 Education
@@ -24,9 +24,9 @@ Education
 
 Interests
 ===
-Xiao is a swim lover, being a member of Tsinghua Waterpolo Team and Swimming Team (C class). 
+Xiao is a swim lover, being a member of Tsinghua Waterpolo Team and Swimming Team. 
 
-He is also a great fan of [Faye Wong](https://music.apple.com/cn/artist/%E7%8E%8B%E8%8F%B2/41760704), donating lots of pocket money to her albums.
+He is also a great fan of [Faye Wong](https://music.apple.com/cn/artist/%E7%8E%8B%E8%8F%B2/41760704), trying to collect all her CD albums.
 
 His dream is to become a Hobbit in [Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)'s world of Middle Earth, who is pleased with his little cozy room, but willing to start an adventure at any time. Most importantly, he is justifiable to have 7 meals a day as a Hobbit :)
 
