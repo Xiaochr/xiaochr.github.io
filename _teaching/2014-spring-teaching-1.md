@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Integrated Business Analytics in Practice"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master course"
+permalink: /teaching/2023-spring-BA
+venue: "Department of Management Science and Engineering, Tsinghua University"
+date: 2023-03-30
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lead TA of the course *Integrated Business Analytics in Practice*. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+By letting students participate in real business projects, mobilize students' subjective initiative and positive thinking. In learning by doing, not only improve logical thinking ability, but also experience and feel the real scene of front-line business analysis.
