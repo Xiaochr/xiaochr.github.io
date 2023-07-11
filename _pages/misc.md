@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Misc"
+permalink: /misc/
+author_profile: true
+---
+
+{% include base_path %}
+
 Xiao is a swim lover, being a member of Tsinghua Waterpolo Team and Swimming Team. 
 
 He is also a great fan of [Faye Wong](https://music.apple.com/cn/artist/%E7%8E%8B%E8%8F%B2/41760704), trying to collect all her CD albums.
