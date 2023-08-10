@@ -13,7 +13,7 @@ About me
 
 Changrong Xiao is a second-year Ph.D. student majoring Information Systems (IS), at the School of Economics and Management, Tsinghua University. 
 
-He is currently under the supervision of [Prof. Sean Xin Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Natural Language Processing and Computational Social Science. He is now working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) and [Prof. Zhitao Yin](https://isom.hkust.edu.hk/faculty-and-staff/directory/zhitaoyin) on an educational project for Chinese middle school English learners. He also frequently discusses with [Prof. Jiayin Zhang](https://www.sem.tsinghua.edu.cn/en/info/1218/7596.htm) on cultural trends and fashion cycles in short video platforms.
+He is currently under the supervision of [Prof. Sean Xin Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Natural Language Processing and Computational Social Science. He is now focusing on LLM applications in educational scenarios, working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) and [Prof. Zhitao Yin](https://isom.hkust.edu.hk/faculty-and-staff/directory/zhitaoyin). He also frequently discusses with [Prof. Jiayin Zhang](https://www.sem.tsinghua.edu.cn/en/info/1218/7596.htm) on cultural trends and fashion cycles in short video platforms.
 
 
 Education
@@ -24,5 +24,5 @@ Education
 
 Academic Services
 ===
-- **Conference Reviewing**: EMNLP 2022, ACL 2023, ACL BEA workshop 2023
+- **Conference Reviewing**: ACL 2023, ACL BEA workshop 2023, EMNLP 2022
 

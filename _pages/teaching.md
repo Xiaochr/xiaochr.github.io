@@ -13,6 +13,6 @@ author_profile: true
 
 - [masters course] **Integrated Business Analytics in Practice**  
 Lead TA of the course  
-Department of Management Science and Engineering, Tsinghua University
+*Department of Management Science and Engineering, Tsinghua University*
 
 
