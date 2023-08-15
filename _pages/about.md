@@ -13,7 +13,9 @@ About me
 
 Changrong Xiao is a second-year Ph.D. student majoring Information Systems (IS), at the School of Economics and Management, Tsinghua University. 
 
-He is currently under the supervision of [Prof. Sean Xin Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Natural Language Processing and Computational Social Science. He is now focusing on LLM applications in educational scenarios, working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) and [Prof. Zhitao Yin](https://isom.hkust.edu.hk/faculty-and-staff/directory/zhitaoyin). He also frequently discusses with [Prof. Jiayin Zhang](https://www.sem.tsinghua.edu.cn/en/info/1218/7596.htm) on cultural trends and fashion cycles in short video platforms.
+<!-- He is currently under the supervision of [Prof. Sean Xin Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm). His research interests lie in Natural Language Processing and Computational Social Science. He is now focusing on LLM applications in educational scenarios, working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) and [Prof. Zhitao Yin](https://isom.hkust.edu.hk/faculty-and-staff/directory/zhitaoyin). He also frequently discusses with [Prof. Jiayin Zhang](https://www.sem.tsinghua.edu.cn/en/info/1218/7596.htm) on cultural trends and fashion cycles in short video platforms. -->
+
+Under the esteemed guidance of [Prof. Sean Xin Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm), is dedicated to advancing the field of Computational Social Science. Currently, he is deeply involved in exploring the applications of LLM within educational contexts, in collaboration with [Prof. Kunpeng Zhang](https://kpzhang.github.io/) and [Prof. Zhitao Yin](https://isom.hkust.edu.hk/faculty-and-staff/directory/zhitaoyin). Additionally, he actively engages in discussions with [Prof. Jiayin Zhang](https://www.sem.tsinghua.edu.cn/en/info/1218/7596.htm) about cultural trends and fashion cycles on short video platforms.
 
 
 Education
