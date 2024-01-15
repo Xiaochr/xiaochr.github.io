@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/data-aug
 excerpt: ''
 date: 2023-05-03
-venue: 'arXiv'
+venue: 'ACMMM LGM3A 2023'
 paperurl: 'https://dl.acm.org/doi/10.1145/3607827.3616839'
 citation: 'Changrong Xiao, Sean Xin Xu, and Kunpeng Zhang. 2023. Multimodal Data Augmentation for Image Captioning using Diffusion Models. In Proceedings of the 1st Workshop on Large Generative Models Meet Multimodal Applications (LGM3A '23). Association for Computing Machinery, New York, NY, USA, 23–33. https://doi.org/10.1145/3607827.3616839'
 ---
