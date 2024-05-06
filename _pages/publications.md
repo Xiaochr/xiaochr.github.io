@@ -23,6 +23,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Working Papers
 
+- Keep The Positive in The Loop: A Field Experimental Study of The Impact of Integrating Solicited Consumer Feedback in Content Recommendation Systems
+
 - [arXiv] [From Automation to Augmentation: Large Language Models Elevating the Essay Scoring Landscape](https://arxiv.org/abs/2401.06431)  
 **Changrong Xiao**, Wenxing Ma, Sean Xin Xu, Kunpeng Zhang, Yufang Wang, Qi Fu
 
