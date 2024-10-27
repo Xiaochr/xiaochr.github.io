@@ -12,4 +12,4 @@ Receiving timely and personalized feedback is essential for second-language lear
 
 [Download paper here](https://arxiv.org/abs/2401.06431)
 
-Recommended citation: 
+**Recommended citation**: Changrong Xiao, Wenxing Ma, Qingping Song, Sean Xin Xu, Kunpeng Zhang, Yufang Wang, Qi Fu. 2024. Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs. arXiv
