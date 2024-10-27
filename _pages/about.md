@@ -11,7 +11,7 @@ redirect_from:
 About me
 ===
 
-Changrong Xiao is a third-year Ph.D. candidate majoring Information Systems (IS), at the School of Economics and Management, Tsinghua University. 
+Changrong Xiao is a fourth-year Ph.D. candidate majoring Information Systems (IS), at the School of Economics and Management, Tsinghua University. 
 
 Under the guidance of [Prof. Sean Xin Xu](https://www.sem.tsinghua.edu.cn/en/info/1219/7547.htm), my research focuses on Natural Language Processing (NLP) applications and Human-AI interaction. I am deeply interested in exploring the transformative potential of Large Language Models (LLMs) in aiding second language learners in China, working closely with [Prof. Kunpeng Zhang](https://kpzhang.github.io/). Additionally, I am involved in designing and implementing Human-in-the-loop strategies for Recommender Systems. In a word, my research aims to be both engaging and practically impactful.
 
