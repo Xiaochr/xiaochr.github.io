@@ -21,14 +21,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 
-## Working Papers
-
-<!-- - [arXiv] [Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs](https://arxiv.org/abs/2401.06431)   -->
-- [arXiv] [Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs](https://xiaochr.github.io/publications/essay-scoring)  
-**Changrong Xiao**, Wenxing Ma, Qingping Song, Sean Xin Xu, Kunpeng Zhang, Yufang Wang, Qi Fu
+<!-- ## Working Papers -->
 
 
 ## Conferences and Workshops
+
+- [LAK25] [Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs](https://xiaochr.github.io/publications/essay-scoring)  
+**Changrong Xiao**, Wenxing Ma, Qingping Song, Sean Xin Xu, Kunpeng Zhang, Yufang Wang, Qi Fu  
+In Proceedings of *The 15th International Learning Analytics and Knowledge Conference (LAK 2025)*  
+acceptance rate: 30%
 
 <!-- - [ICIS 2024; INFORMS annual meeting 2024] [Keep The Positive in The Loop: A Field Experimental Study of The Impact of Integrating Solicited Consumer Feedback in Content Recommendation Systems](https://aisel.aisnet.org/icis2024/humtechinter/humtechinter/21/)   -->
 - [ICIS 2024; INFORMS annual meeting 2024] [Keep The Positive in The Loop: A Field Experimental Study of The Impact of Integrating Solicited Consumer Feedback in Content Recommendation Systems](https://xiaochr.github.io/publications/user-auto)  

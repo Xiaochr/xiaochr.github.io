@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-01-12
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2401.06431'
-citation: 'Changrong Xiao, Wenxing Ma, Qingping Song, Sean Xin Xu, Kunpeng Zhang, Yufang Wang, Qi Fu. 2024. Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs. arXiv'
+citation: 'Changrong Xiao, Wenxing Ma, Qingping Song, Sean Xin Xu, Kunpeng Zhang, Yufang Wang, and Qi Fu. 2025. Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs. In LAK25: The 15th International Learning Analytics and Knowledge Conference (LAK 2025), March 03–07, 2025, Dublin, Ireland. '
 ---
 Abstract
 ===
