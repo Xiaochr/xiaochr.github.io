@@ -23,6 +23,6 @@ Education
 * Exchange Program (Business Education), University of Mannheim, Aug. 2019 - Jan. 2020
 * Bachelor in Information Management and Information Systems, Tsinghua University, Sept. 2017 - Jun. 2021
 
-Academic Services
+<!-- Academic Services
 ===
-- **Conference Reviewing**: ICIS, ACL, EMNLP, NAACL, COLING, BEA workshop
+- **Conference Reviewing**: ICIS, ACL, EMNLP, NAACL, COLING, BEA workshop -->
