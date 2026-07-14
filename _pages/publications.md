@@ -21,7 +21,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 
-<!-- ## Working Papers -->
+## Working Papers
+
+- Keep the Positive in the Loop: Collective
+Preference Alignment in Content
+Recommendations  
+**Changrong Xiao**, Yilin Li, Chong (Alex) Wang, Sean Xin Xu, and Jiayin Zhang  
+
+- Opening the Black Box of AI Feedback: Causal Evidence from Personalization and Explanation in Learning  
+**Changrong Xiao**, Sean Xin Xu, Zhitao Yin and Kunpeng Zhang  
+
 
 
 ## Conferences and Workshops
@@ -29,8 +38,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [LAK25] [Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs](https://xiaochr.github.io/publications/essay-scoring)  
 **Changrong Xiao**, Wenxing Ma, Qingping Song, Sean Xin Xu, Kunpeng Zhang, Yufang Wang, Qi Fu  
 In Proceedings of *The 15th International Learning Analytics and Knowledge Conference (LAK 2025)*  
-(The conference is in the [top 20 Google Scholar citation ranks for Educational Technology publications](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_educationaltechnology))  
-[[pdf](https://dl.acm.org/doi/10.1145/3706468.3706507), [dataset](https://huggingface.co/datasets/Xiaochr/Chinese-Student-English-Essay), [codes](https://github.com/Xiaochr/LLM-AES)]
+(The conference is in the [top 20 Google Scholar citation ranks for Educational Technology publications](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_educationaltechnology))  
+[[pdf](https://dl.acm.org/doi/10.1145/3706468.3706507), [dataset](https://huggingface.co/datasets/Xiaochr/Chinese-Student-English-Essay), [codes](https://github.com/Xiaochr/LLM-AES), [slides](https://docs.google.com/presentation/d/1FNj5k-J3vkpoBlh-CZ-Pbh3lRF-BpXs7/edit?usp=sharing&ouid=117376907703226441229&rtpof=true&sd=true)]
 
 
 <!-- - [ICIS 2024; INFORMS annual meeting 2024] [Keep The Positive in The Loop: A Field Experimental Study of The Impact of Integrating Solicited Consumer Feedback in Content Recommendation Systems](https://aisel.aisnet.org/icis2024/humtechinter/humtechinter/21/)   -->
