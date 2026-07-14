@@ -10,7 +10,7 @@ locale                   : "cn-CHN"
 title                    : "Xiaochr"
 title_separator          : "-"
 name                     : &name "Changrong Xiao"
-description              : &description "Ph.D. student at Tsinghua. "
+description              : &description ""
 url                      : https://xiaochr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xiaochr/xiaochr.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Changrong Xiao"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D. student, MS&E department, School of Economics and Management, Tsinghua University. "
+  bio              : "Algorithm Engineer, Huawei"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "xiaochr"
+  steam            : 
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :

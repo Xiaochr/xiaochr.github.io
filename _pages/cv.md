@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Information Systems, Tsinghua University, Sept. 2021 - 
+* Doctor in Information Systems, Tsinghua University, Sept. 2021 - Jun. 2026
 * Exchange Program (Business Education), University of Mannheim, Aug. 2019 - Jan. 2020
 * Bachelor in Information Management and Information Systems, Tsinghua University, Sept. 2017 - Jun. 2021
 
-Research & Work experience
+Work experience
 ======
-* Research Intern, May 2021 - Sept. 2021 and Dec. 2022 - 
+* Algorithm Engineer, July 2026 - 
+  * Huawei
+* Research Intern, May 2021 - Sept. 2021 and Dec. 2022 - Sept. 2026
   * Beijing Kuaishou Technology Co., Ltd.
 
-* Research Assistant, Aug. 2020 - Apr. 2021
+<!-- * Research Assistant, Aug. 2020 - Apr. 2021
   * SEM Interactive Technology Industry Research Center, Tsinghua University
   * Supervisor: [Prof. Jiayin Zhang](https://www.sem.tsinghua.edu.cn/en/info/1218/7596.htm)
 
@@ -32,7 +34,7 @@ Research & Work experience
 * Research Assistant, Sept. 2018 - Apr. 2019
   * Department of Industrial Engineering, Tsinghua University
   * Supervisor: Senior Engineer Jingbin Yan
-  * **30th Tsinghua University student laboratory construction contribution award**
+  * **30th Tsinghua University student laboratory construction contribution award** -->
 
 Honors
 ===
@@ -42,9 +44,9 @@ Honors
   
 Service and leadership
 ======
-* Currently vice captain of Tsinghua Waterpolo team, won **second place** in 2021 China University Water Polo Championship. 
-* Program Assistant of [TCMiBA](https://masters.sem.tsinghua.edu.cn/en/qhdx_glbydxswfxsssxwxm/Program_Content.htm) Dual Master’s Degree Program.
-* Former leader of Tsinghua SEM swimming team and long-distance running team.
+* Former Captain of Tsinghua Waterpolo team, won **second place** in 2021 China University Water Polo Championship. 
+* Former Program Assistant of [TCMiBA](https://masters.sem.tsinghua.edu.cn/en/qhdx_glbydxswfxsssxwxm/Program_Content.htm) Dual Master’s Degree Program.
+* Former Captain of Tsinghua SEM swimming team and long-distance running team.
 
 Skills
 ======
