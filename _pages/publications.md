@@ -21,6 +21,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 
+## Dissertation
+
+- *Design Research of Learning Systems Based on Generative Artificial Intelligence*  
+Doctoral Dissertation, Tsinghua University, 2026.
+
+
 ## Working Papers
 
 - Keep the Positive in the Loop: Collective
@@ -28,8 +34,11 @@ Preference Alignment in Content
 Recommendations  
 **Changrong Xiao**, Yilin Li, Chong (Alex) Wang, Sean Xin Xu, and Jiayin Zhang  
 
-- Opening the Black Box of AI Feedback: Causal Evidence from Personalization and Explanation in Learning  
-**Changrong Xiao**, Sean Xin Xu, Zhitao Yin and Kunpeng Zhang  
+- Designing Empathetic GenAI for Human Learning  
+Lini Kuang, **Changrong Xiao**, Sean Xin Xu, Cheng Yi
+
+<!-- - Opening the Black Box of AI Feedback: Causal Evidence from Personalization and Explanation in Learning  
+**Changrong Xiao**, Sean Xin Xu, Zhitao Yin and Kunpeng Zhang   -->
 
 
 
